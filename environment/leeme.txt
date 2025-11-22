@@ -1,0 +1,2 @@
+Comando para probar tracking en modo CPU ya DCNv2 solo se pudo compilar en modo CPU
+tracking --load_model ./models/mot17_half.pth --num_class 1 --demo ./videos/nuscenes_mini.mp4 --gpus -1
